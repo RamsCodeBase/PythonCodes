@@ -1,22 +1,26 @@
 1. In the below elements which of them are values or an expression? eg:- values can be integer or string and expressions will be mathematical operators.
 
-*
+* is a expression
 
-'hello'
+'hello' is a value
 
--87.8
+-87.8  is a value
 
--
+-  is a expression
 
-/
+/ is a expression
 
-+
++ is a expressio
 
-6
+6 is a value
 
 2. What is the difference between string and variable?
+   Ans: variable is a place holder to hold a particular type of data where as string is a variable type usually holds sequence of elements or characters
 
 3. Describe three different data types.
+   Ans: NUMBER - to hold whole numbers like 1,4,5,89,904
+        STRING - to hold alhanumeric data like 'Ram', 'APPLE'
+        BOOLEAN - to Boolean values like TRUE, FALSE
 
 4. What is an expression made up of? What do all expressions do?
 
